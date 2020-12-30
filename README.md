@@ -1,0 +1,1 @@
+This is my first real project with The Odin Project! I will disassemble the Google homepage, and then reassemble it myself in order to practice basic HTML and CSS principles.
